@@ -25,5 +25,6 @@ Thumbs.db
 # Test / coverage
 coverage/
 
-# Local-only helper (not committed; double-click Git setup on Windows)
+# Local-only helpers (not committed; double-click Git setup on Windows)
 local-git-setup.cmd
+GITHUB-ONE-CLICK.cmd
