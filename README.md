@@ -4,6 +4,8 @@ Full-stack assignment starter: React (Vite), Express, MySQL, and PokeAPI.
 
 **Brief:** `Tuisopdrag_Fullstack_Pokemon.docx` (repository root).
 
+**Publish to GitHub:** on Windows, run **`GITHUB-ONE-CLICK.cmd`** in this directory (repository root). macOS/Linux: see **`docs/submission-guide.md`**.
+
 ## Requirements
 
 - Node.js 18+
@@ -77,13 +79,15 @@ Content-Type: application/json
 |------|---------|
 | `docs/project-map.md` | Paths, routes, API table |
 | `docs/architecture.md` | Your architecture write-up (submission) |
-| `docs/submission-guide.md` | What to hand in and how to document it |
+| `docs/submission-guide.md` | Deliverable, publish script, runtime README, licence |
+| `GITHUB-ONE-CLICK.cmd` | Windows: create GitHub repo and push |
+| `LICENSE` | MIT (starter template); see submission guide |
 | `backend/README.md` | Backend commands and env vars |
 | `frontend/README.md` | Frontend commands |
 
-## Assessor setup
+## Runtime configuration
 
-**Students:** Fill in every cell before submission. The assessor should not need to open `backend/.env` (it is not committed).
+Fill every cell before submission. Anyone cloning the repository must be able to run the stack from this table alone — `backend/.env` is not committed.
 
 | Item | Value |
 |------|-------|
@@ -102,15 +106,15 @@ Content-Type: application/json
 | Email | |
 | Password | |
 
-### Assessor steps
+### Steps to run locally
 
 1. Start MySQL.
-2. From the repo root: `cd backend && npm install && cd ..` then `node scripts/setup.js` — use your own MySQL **admin** password when prompted; then update the table above to match what the script printed (or use your own documented DB user if you import a dump instead).
+2. From the repo root: `cd backend && npm install && cd ..` then `node scripts/setup.js` — use the MySQL **admin** password when prompted; align the table above with the output (or document an alternative if you import `database/dump.sql` instead).
 3. `cd backend && npm run dev`
 4. `cd frontend && npm install && npm run dev`
 5. Open the frontend URL and sign in with the test account.
 
-If you submit `database/dump.sql`, document whether the assessor should **import the dump** instead of running `setup.js` (see `docs/submission-guide.md`).
+If you include `database/dump.sql`, state in this README whether importers should load that file instead of running `setup.js` (see `docs/submission-guide.md`).
 
 ## Production build (optional)
 

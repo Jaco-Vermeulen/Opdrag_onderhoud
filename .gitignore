@@ -24,6 +24,3 @@ Thumbs.db
 
 # Test / coverage
 coverage/
-
-# Local-only helper (not committed; double-click Git + GitHub on Windows)
-GITHUB-ONE-CLICK.cmd
