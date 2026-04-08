@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+
+# Environment (never commit secrets)
+.env
+backend/.env
+frontend/.env
+.env.local
+.env.*.local
+
+# Build outputs
+frontend/dist/
+backend/dist/
+
+# Logs & OS
+*.log
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/*
+!.vscode/extensions.json
+
+# Test / coverage
+coverage/
+
+# Local-only helper (not committed; double-click Git setup on Windows)
+local-git-setup.cmd
