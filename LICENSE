@@ -1,27 +1,50 @@
-MIT License
+Non-Commercial Licence — Pokémon Spanbouer / Opdrag onderhoud starter
 
-Copyright (c) 2026 Pokémon Spanbouer / Opdrag onderhoud starter project
+Copyright (c) 2026 Jaco Vermeulen, Maroela Media
+Additional contributors are listed in the NOTICE file.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+TERMS
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. Grant (non-commercial only)
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+Permission is granted to use, copy, modify, and share this software and its
+documentation for non-commercial purposes. “Non-commercial” means use not
+primarily intended for or directed toward commercial advantage or monetary
+compensation (including teaching, learning, research, and personal projects).
+
+2. Commercial use
+
+Any commercial use, including use inside a for-profit product or service or
+offering this software or a derivative for sale, requires prior written
+permission from the copyright holder.
+
+3. Attribution and ownership (mandatory)
+
+You must:
+
+(a) Retain this LICENSE file, the NOTICE file, and all existing copyright and
+    licence notices in any distribution.
+
+(b) Include in the root README.md an “Ownership” section that:
+    — identifies the original copyright holder; and
+    — clearly distinguishes your own contributions from the original work.
+
+Misrepresentation or removal of original ownership constitutes a breach of this licence.
+
+4. Derivatives
+
+Modified versions must remain under this licence, retain all notices, and comply
+with section 3.
+
+5. Third-party marks and services
+
+Pokémon and related names are trademarks of their respective owners. This
+project is not affiliated with or endorsed by them. Use of PokeAPI is subject
+to https://pokeapi.co/ (or successor) terms.
+
+6. Disclaimer
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
----
-
-Third-party marks: Pokémon and related names are trademarks of their
-respective owners. This educational starter is not affiliated with or endorsed
-by those owners. Use of PokeAPI is subject to its own terms (https://pokeapi.co/).
+COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY.

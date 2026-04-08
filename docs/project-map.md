@@ -7,6 +7,8 @@ Quick reference for where things live.
 | Assignment brief | `Tuisopdrag_Fullstack_Pokemon.docx` |
 | Architecture write-up | `docs/architecture.md` |
 | Submission guide | `docs/submission-guide.md` |
+| Licence | `LICENSE` (non-commercial) |
+| Original starter ownership | `NOTICE` |
 | MySQL schema | `database/schema.sql` |
 | Backend entry | `backend/src/server.js`, `backend/src/app.js` |
 | Routes | `backend/src/routes/*.routes.js` |

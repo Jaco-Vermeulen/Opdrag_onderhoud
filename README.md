@@ -6,6 +6,14 @@ Full-stack assignment starter: React (Vite), Express, MySQL, and PokeAPI.
 
 **Publish to GitHub:** on Windows, run **`GITHUB-ONE-CLICK.cmd`** in this directory (repository root). macOS/Linux: see **`docs/submission-guide.md`**.
 
+## Ownership
+
+**Original starter:** `NOTICE` names the copyright holder(s). `LICENSE` permits **non-commercial** use only and requires this section to stay accurate.
+
+**Additions and changes in this clone:** *(complete before any submission — list paths or areas you authored or materially changed; state that you claim authorship only for those parts. Original starter ownership is unchanged.)*
+
+- *Example: `backend/src/services/*.js`, `frontend/src/components/features/*`, `database/schema.sql` — implemented and owned by [your name or identifier] for this submission.*
+
 ## Requirements
 
 - Node.js 18+
@@ -81,7 +89,8 @@ Content-Type: application/json
 | `docs/architecture.md` | Your architecture write-up (submission) |
 | `docs/submission-guide.md` | Deliverable, publish script, runtime README, licence |
 | `GITHUB-ONE-CLICK.cmd` | Windows: create GitHub repo and push |
-| `LICENSE` | MIT (starter template); see submission guide |
+| `LICENSE` | Non-commercial licence (starter + derivatives) |
+| `NOTICE` | Original starter copyright / ownership |
 | `backend/README.md` | Backend commands and env vars |
 | `frontend/README.md` | Frontend commands |
 

@@ -66,14 +66,19 @@ HTTP: **GET** and **POST** only; deletions via **POST** with `id` in the JSON bo
 
 ## Copyright and licence
 
-- **Starter template:** licensed under **MIT** — see **`LICENSE`** in the repository root. Redistributed copies must retain the copyright and permission notice for MIT-covered material.
-- **Third-party marks and services:** *Pokémon* and related names are trademarks of their respective owners; this project is not affiliated with them. Use of **PokeAPI** is subject to https://pokeapi.co/ terms.
-- **Original work you add:** you remain the author of code and prose you write. Do not remove `LICENSE` where it applies to unchanged starter files. Third-party snippets require compatible licences and visible attribution where required. Institutional rules and the brief govern originality and reuse.
+- **`LICENSE`:** **non-commercial** use only. Commercial use needs written permission from the copyright holder(s) in **`NOTICE`**.
+- **`NOTICE`:** states **original starter** copyright and ownership. Do not remove or falsify it.
+- **Root `README.md` → Ownership:** must always state (1) who owns the original starter (see `NOTICE`) and (2) what **you** added or changed, with authorship claimed **only** for your parts. That is a condition of the licence, not optional text.
+- **Third-party:** *Pokémon* names are third-party marks; this project is not affiliated. **PokeAPI:** https://pokeapi.co/ terms apply.
+
+This text is not legal advice. Enforceability depends on jurisdiction; for commercial or high-risk use, obtain professional review.
 
 ## Verification
 
 - [ ] `database/schema.sql` applies without error on a new database  
 - [ ] `README.md` runtime configuration and test login are complete and verified  
+- [ ] `README.md` **Ownership** is complete: original ownership (`NOTICE`) acknowledged; your contributions and authorship scope stated  
+- [ ] `LICENSE` and `NOTICE` present and unaltered except as permitted by the licence  
 - [ ] `docs/architecture.md` is complete  
 - [ ] No secrets in the repository  
 - [ ] Submission link (GitHub URL or agreed ZIP) matches the required deliverable format  
@@ -84,6 +89,7 @@ HTTP: **GET** and **POST** only; deletions via **POST** with `id` in the JSON bo
 |------|----------|
 | Publish script | `GITHUB-ONE-CLICK.cmd` |
 | Licence | `LICENSE` |
+| Original ownership | `NOTICE` |
 | Run instructions | `README.md` |
 | API summary | `docs/project-map.md` |
 | Brief | `Tuisopdrag_Fullstack_Pokemon.docx` |
